@@ -9,3 +9,13 @@ Key contributors:<br>
 [annatiutiunyk836-jpg](https://github.com/annatiutiunyk836-jpg)<br>
 [aleksfilek](https://github.com/aleksfilek?fbclid=IwY2xjawVpK_BleHRuA2FlbQIxMQBwZG9mA3NydGMGYXBwX2lkATAAAR_hulHu-HcHHOw1l7UD9bfWaHzuomkoRqoIhKpzTGspKk8I_RIWHnf874Lu8w_aem_AAm4vqfZEOwMg0MugRw1Nw)<br>
 
+## Repository structure
+
+```
+TeDe-Data-Analysis/
+├── README.md
+└── Gabi/
+    ├── wzor.ipynb   # warsztaty: Git/GitHub + analiza danych w Python
+    └── data.csv     # przykładowe dane generowane do wzor.ipynb
+```
+
